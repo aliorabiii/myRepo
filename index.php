@@ -8,5 +8,6 @@
 <body>
     <h1>First Code from Main</h1>
     <h2>Code from B1</h2>
+    <h2>Code from B2</h2>
 </body>
 </html>
